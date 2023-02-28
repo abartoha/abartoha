@@ -9,3 +9,5 @@
 - 🧠 Things I practise regularly : _Python_, _JavaScript_, _React_, _Flask_
 - 🔮 Things I couldn't learn before but want to learn in the future: _Dart_, _C/C++_, _Java_, _Assembly_, _Rust_
 - 📕 Academic Strengths : Physics
+
+![Rotating Skull Generated with Python](https://github.com/abartoha/abartoha/blob/defalt/rotskull.gif?raw=true)
