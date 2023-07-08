@@ -1,0 +1,20 @@
+# ignore errors
+-i
+# verbose demands
+-vU
+# download playlist
+--yes-playlist
+
+# https://github.com/yt-dlp/yt-dlp#format-selection-examples
+# -f "bv*[ext=mp4]+ba[ext=m4a]/b[ext=mp4]/bv*+ba"
+
+# console progress bar
+--console-title
+
+# geo bypass, age bypass
+--geo-bypass
+--age-limit 40
+
+# output directory
+# https://github.com/yt-dlp/yt-dlp # output-template
+-o "F:/Archive/Video/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s"
