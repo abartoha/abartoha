@@ -1,9 +1,3 @@
-"""
-Credits go to that russian coder, youtube channel name 'Standalone coder'
-link to his video: https://www.youtube.com/watch?v=YwejI7TJ_Y4
-"""
-
-
 import os
 import pygame as pg
 from random import choice, randrange
