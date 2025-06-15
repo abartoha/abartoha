@@ -1,3 +1,4 @@
+# %APPDATA%/yt-dlp/config.txt
 # ignore errors
 -i
 # verbose demands
