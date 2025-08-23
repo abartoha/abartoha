@@ -1,0 +1,3 @@
+```
+yt -f ba --extract-audio --audio-format mp3 --audio-quality 0 --embed-thumbnail --embed-metadata --write-thumbnail --parse-metadata "%(uploader)s:%(meta_artist)s" --parse-metadata "%(playlist_title)s:%(meta_album)s" --parse-metadata "%(playlist_title,title)s:%(meta_album)s" --parse-metadata "%(uploader,artist,creator)s:%(meta_artist)s" --parse-metadata "%(track,title)s:%(meta_title)s" --parse-metadata "%(playlist_index)s:%(meta_track)s" --write-info-json --sponsorblock-remove all 
+```
