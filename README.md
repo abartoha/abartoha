@@ -39,6 +39,7 @@ between the parti and the binary
 ### code
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-E6E6FA?style=flat&logo=c#&logoColor=white)
 ![IronPython](https://img.shields.io/badge/IronPython-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
